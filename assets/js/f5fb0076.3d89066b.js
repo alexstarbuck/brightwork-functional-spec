@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrightwork=self.webpackChunkbrightwork||[]).push([[1855],{7965:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/brightwork-functional-spec/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

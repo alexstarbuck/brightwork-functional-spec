@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkbrightwork=self.webpackChunkbrightwork||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/brightwork-functional-spec/blog","blogTitle":"Blog","authorsListPath":"/brightwork-functional-spec/blog/authors"}')}}]);
