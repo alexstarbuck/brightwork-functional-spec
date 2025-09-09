@@ -1,6 +1,7 @@
 ---
 title: Multi Role Team Collaboration
 sidebar_label: Multi-role Team Collaboration
+sidebar_position: 7
 tags: []             # Safe empty array
 url: ""            # Empty string-safe
 date_created: 2025-07-19 13:37

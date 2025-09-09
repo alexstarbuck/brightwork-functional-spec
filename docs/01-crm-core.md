@@ -1,6 +1,7 @@
 ---
 title: CRM Core - Contacts, Tasks, Notes, Timeline
 sidebar_label: CRM Core
+sidebar_position: 2
 tags: []
 url: 
 date_created: 2025-07-19 13:52

@@ -2,6 +2,7 @@
 id: intro
 title: Brightwork Functional Spec - Index
 sidebar_label: Index
+sidebar_position: 1
 tags: []
 date_created: 2025-08-03 17:01
 ---

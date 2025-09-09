@@ -1,6 +1,7 @@
 ---
 title: User Onboarding And Guidance
 sidebar_label: User Onboarding
+sidebar_position: 11
 tags: []             # Safe empty array
 url: ""            # Empty string-safe
 date_created: 2025-07-19 13:55

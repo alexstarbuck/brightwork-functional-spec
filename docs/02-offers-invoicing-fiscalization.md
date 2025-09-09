@@ -1,6 +1,7 @@
 ---
 title: Offers, Invoicing, Fiscalization
 sidebar_label: Offers, Invoicing, Fiscalization
+sidebar_position: 3
 tags: []
 url: ""
 date_created: 2025-07-19 13:52

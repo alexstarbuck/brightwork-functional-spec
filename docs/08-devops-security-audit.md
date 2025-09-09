@@ -1,6 +1,7 @@
 ---
 title: Devops Security Audit
 sidebar_label: Devops, Security
+sidebar_position: 9
 tags: []             # Safe empty array
 url: ""            # Empty string-safe
 date_created: 2025-07-19 13:59

@@ -1,6 +1,7 @@
 ---
 title: Ai Assistant Functionality
 sidebar_label: AI Assistant
+sidebar_position: 4
 tags: []
 url: ""
 date_created: 2025-07-19 13:52
