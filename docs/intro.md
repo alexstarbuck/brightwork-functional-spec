@@ -3,9 +3,7 @@ id: intro
 title: Brightwork Functional Spec - Index
 sidebar_label: Index
 tags: []
-parent: null
-source: null
-date_created: '2025-08-03 17:01'
+date_created: 2025-08-03 17:01
 ---
 # BrightWork CRM — Functional Spec. Index
 
@@ -13,16 +11,16 @@ Welcome to the Functional Spec for BrightWork CRM. This documentation outlines t
 
 ## Epics Overview
 
-- [CRM Core: Contacts, Tasks, Notes, Timeline](/docs/01-crm-core)
-- [Offers, Invoicing, Fiscalization](/docs/02-offers-invoicing-fiscalization)
-- [Ai Assistant Functionality](/docs/03-ai-assistant)
-- [Call Center](/docs/04-call-center)
-- [Marketing Integrations And Attribution](/docs/05-marketing-integrations-and-attribution)
-- [Multi Role Team Collaboration](/docs/06-multi-role-team-collaboration)
-- [Billing, Account Access Roles](/docs/07-billing-account-access-roles)
-- [Devops Security Audit](/docs/08-devops-security-audit)
-- [Scheduling: Calendar](/docs/09-scheduling-calendar)
-- [User Onboarding And Guidance](/docs/10-user-onboarding-and-guidance)
+- [CRM Core: Contacts, Tasks, Notes, Timeline](./01-crm-core.md)
+- [Offers, Invoicing, Fiscalization](./02-offers-invoicing-fiscalization.md)
+- [Ai Assistant Functionality](./03-ai-assistant.md)
+- [Call Center](./04-call-center.md)
+- [Marketing Integrations And Attribution](./05-marketing-integrations-and-attribution.md)
+- [Multi Role Team Collaboration](./06-multi-role-team-collaboration.md)
+- [Billing, Account Access Roles](./07-billing-account-access-roles.md)
+- [Devops Security Audit](./08-devops-security-audit.md)
+- [Scheduling: Calendar](./09-scheduling-calendar.md)
+- [User Onboarding And Guidance](./10-user-onboarding-and-guidance.md)
 
 
 ---

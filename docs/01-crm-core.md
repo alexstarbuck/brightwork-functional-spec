@@ -1,11 +1,9 @@
 ---
-id: 01-crm-core
-slug: 01-crm-core
-title: 'CRM Core: Contacts, Tasks, Notes, Timeline'
+title: CRM Core - Contacts, Tasks, Notes, Timeline
 sidebar_label: CRM Core
 tags: []
-url: null
-date_created: '2025-07-19 13:52'
+url: 
+date_created: 2025-07-19 13:52
 ---
 # CRM Core - Contacts, Tasks, Notes, Timeline
 

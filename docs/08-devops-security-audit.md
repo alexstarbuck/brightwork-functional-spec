@@ -1,11 +1,9 @@
 ---
-id: 08-devops-security-audit
-slug: 08-devops-security-audit
 title: Devops Security Audit
-sidebar_label: 'Devops, Security'
-tags: []
-url: null
-date_created: '2025-07-19 13:59'
+sidebar_label: Devops, Security
+tags: []             # Safe empty array
+url: ""            # Empty string-safe
+date_created: 2025-07-19 13:59
 ---
 # 🛡️ DevOps, Security & Audit
 

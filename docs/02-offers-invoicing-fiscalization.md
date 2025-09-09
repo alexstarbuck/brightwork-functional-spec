@@ -1,11 +1,9 @@
 ---
-id: 02-offers-invoicing-fiscalization
-slug: 02-offers-invoicing-fiscalization
-title: 'Offers, Invoicing, Fiscalization'
-sidebar_label: 'Offers, Invoicing, Fiscalization'
+title: Offers, Invoicing, Fiscalization
+sidebar_label: Offers, Invoicing, Fiscalization
 tags: []
-url: null
-date_created: '2025-07-19 13:52'
+url: ""
+date_created: 2025-07-19 13:52
 ---
 # Offers, Invoicing & Fiscalization
 

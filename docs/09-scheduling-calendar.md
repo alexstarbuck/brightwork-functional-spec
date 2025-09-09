@@ -1,11 +1,9 @@
 ---
-id: 09-scheduling-calendar
-slug: 09-scheduling-calendar
-title: 'Scheduling: Calendar'
-sidebar_label: 'Schedulling: Calendar'
+title: Scheduling - Calendar
+sidebar_label: "Schedulling: Calendar"
 tags: []
-url: null
-date_created: '2025-07-19 13:28'
+url: ""
+date_created: 2025-07-19 13:28
 ---
 # 📅 Scheduling & Calendar Integration
 

@@ -1,11 +1,9 @@
 ---
-id: 05-marketing-integrations-and-attribution
-slug: 05-marketing-integrations-and-attribution
 title: Marketing Integrations And Attribution
 sidebar_label: Marketing module
 tags: []
-url: null
-date_created: '2025-07-19 13:46'
+url: ""
+date_created: 2025-07-19 13:46
 ---
 # 📣 Marketing Integrations & Attribution
 

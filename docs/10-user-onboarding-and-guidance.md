@@ -1,11 +1,9 @@
 ---
-id: 10-user-onboarding-and-guidance
-slug: 10-user-onboarding-and-guidance
 title: User Onboarding And Guidance
 sidebar_label: User Onboarding
-tags: []
-url: null
-date_created: '2025-07-19 13:55'
+tags: []             # Safe empty array
+url: ""            # Empty string-safe
+date_created: 2025-07-19 13:55
 ---
 # 🎯 User Onboarding & Guidance
 

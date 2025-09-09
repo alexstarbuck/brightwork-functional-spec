@@ -1,11 +1,14 @@
-**parent**: n/a;
-**tags**: 
-**source**: 
-**description**:
-**date created**: 2025-07-19 13:16
-
 ---
-# Writing Style Guidelines
+title: Brightwork Functional Spec Guidelines
+tags: []
+url: ""
+date_created: 2025-07-19 13:16
+citekey: 
+type: 
+author: 
+year:
+---
+## Writing Style Guidelines
 
 Each Epic page should include:
 

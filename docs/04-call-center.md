@@ -1,11 +1,9 @@
 ---
-id: 04-call-center
-slug: 04-call-center
 title: Call Center
 sidebar_label: Call Center
-tags: []
-url: null
-date_created: '2025-07-19 13:52'
+tags: []             # Safe empty array
+url: ""           # Empty string-safe
+date_created: 2025-07-19 13:52
 ---
 # 📞 Call Center Integration
 

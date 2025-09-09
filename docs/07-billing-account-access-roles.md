@@ -1,11 +1,9 @@
 ---
-id: 07-billing-account-access-roles
-slug: 07-billing-account-access-roles
-title: 'Billing, Account Access Roles'
-sidebar_label: 'Billing, Account access'
+title: Billing, Account Access Roles
+sidebar_label: Billing, Account access
 tags: []
-url: null
-date_created: '2025-07-19 13:42'
+url: ""
+date_created: 2025-07-19 13:42
 ---
 # 🧾 Billing, Account Access & Roles
 

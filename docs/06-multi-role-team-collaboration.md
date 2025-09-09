@@ -1,11 +1,9 @@
 ---
-id: 06-multi-role-team-collaboration
-slug: 06-multi-role-team-collaboration
 title: Multi Role Team Collaboration
 sidebar_label: Multi-role Team Collaboration
-tags: []
-url: null
-date_created: '2025-07-19 13:37'
+tags: []             # Safe empty array
+url: ""            # Empty string-safe
+date_created: 2025-07-19 13:37
 ---
 # 🧑‍🤝‍🧑 Multi-role Team Collaboration
 

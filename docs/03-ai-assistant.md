@@ -1,11 +1,9 @@
 ---
-id: 03-ai-assistant
-slug: 03-ai-assistant
 title: Ai Assistant Functionality
 sidebar_label: AI Assistant
 tags: []
-url: null
-date_created: '2025-07-19 13:52'
+url: ""
+date_created: 2025-07-19 13:52
 ---
 # 🤖 AI Assistant & Automation
 
