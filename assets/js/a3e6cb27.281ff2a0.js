@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkbrightwork=self.webpackChunkbrightwork||[]).push([[6796],{1553:e=>{e.exports=JSON.parse('{"tags":[{"label":"eu","permalink":"/brightwork-functional-spec/docs/tags/eu","count":1},{"label":"gajger","permalink":"/brightwork-functional-spec/docs/tags/gajger","count":1}]}')}}]);
